@@ -1,0 +1,50 @@
+.main-section {
+
+    background: #2F4F4F;
+
+    margin-top: 50px;
+}
+
+
+.swiper-container {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 220px;
+    height: 285px;
+    background: #fff;
+}
+
+.imgBx img {
+    width: 220px;
+    height: 205px;
+    margin: 0px auto;
+    padding: 5px;
+
+}
+
+.datails h3 {
+    font-family: tahoma;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+	margin-top:10px;
+
+}
+
+
+.datails span {
+
+    font-family: tahoma;
+    
+    font-weight: bold;
+    text-align: center;
+    color: green;
+    display: block;
+
+}
